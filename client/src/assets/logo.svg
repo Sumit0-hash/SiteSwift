@@ -1,0 +1,16 @@
+<svg width="314" height="58" viewBox="0 0 314 58" xmlns="http://www.w3.org/2000/svg">
+  <!-- Logo mark (unchanged) -->
+  <path d="M0 37.0714L21.3158 8H59.2105L44.2105 22.9286H30V14.6786L12.6316 37.0714H25.2632V48.4643L44.2105 23.3214H60L36.3158 52H1.57895L12.6316 37.0714H0Z" fill="white"/>
+
+  <!-- Text -->
+  <text
+    x="75"
+    y="40"
+    fill="white"
+    font-size="32"
+    font-weight="600"
+    font-family="Inter, Arial, sans-serif"
+  >
+    SiteSwift
+  </text>
+</svg>
