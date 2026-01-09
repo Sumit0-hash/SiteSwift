@@ -1,0 +1,63 @@
+# =========================
+# Node.js
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# TypeScript
+# =========================
+dist/
+build/
+*.tsbuildinfo
+
+# =========================
+# Prisma
+# =========================
+prisma/migrations/
+prisma/generated/
+.prisma/
+
+# Prisma local engine caches
+node_modules/.prisma/
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# =========================
+# Nodemon
+# =========================
+.nodemon.json
+
+# =========================
+# Coverage / Testing
+# =========================
+coverage/
+
+# =========================
+# Temporary files
+# =========================
+tmp/
+temp/
